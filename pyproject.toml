@@ -1,0 +1,12 @@
+[project]
+name = "atividade-01-rvores-de-decis-o-migueldsbatista"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "scikit-learn>=1.8",
+    "matplotlib>=3.8",
+    "pandas>=2.0",
+    "numpy>=2.0",
+]
